@@ -1,3 +1,3 @@
-#  ~ PicoCTF 2022 Write Up ~
+#  ~ Write Up  for CTFs~
 
 Enjoy~
