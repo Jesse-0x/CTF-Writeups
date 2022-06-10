@@ -1,6 +1,6 @@
 # 第一更Write Up
 
-##### ～☆啊吧啊吧这次题目考查的是对于RSA 当p-1为Smooth number(平滑数)的大数Factorization(因式分解)的掌握☆～
+##### ～☆这次题目考查的是对于RSA 当p-1为Smooth number(平滑数)的大数Factorization(因式分解)的掌握☆～
 
 原题目：
 ```
