@@ -19,7 +19,7 @@ PS: Even though I don't know how to skatting...
 
 算法本身依赖于Fermat's little theorem(费马小定律)。
 
-##### 费马小定律:
+##### 费马小定理:
 
 假设有一个数字：N，为 p 和 q 的乘积，且 p 与 q为互质数（gcd(p, q) = 1)。设a为一个与 p 互质的数字（gcd(a, p) = 1），那么```a^(p-1)≡1（mod p)``` 或者可以写为```a^(p-1) % p = 1 % p ``` ```a^(p-1) % p = 1 ```
 
